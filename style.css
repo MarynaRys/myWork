@@ -17,8 +17,7 @@ ul {
 	font-family: 'Conv_Wisdom Script';
 	src: url('fonts/Wisdom Script.eot');
 	src: local('☺'), url('fonts/Wisdom Script.woff') format('woff'), url('fonts/Wisdom Script.ttf') format('truetype'), url('fonts/Wisdom Script.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
+
 }
 .header{
 	background: url('img/bg_header.png') repeat-y 100% 0;
